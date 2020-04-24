@@ -1,8 +1,4 @@
-127.0.0.1	localhost
-::1	localhost
-::1	ip6-localhost
-::1	ip6-loopback
-##############################
+
 119.28.243.66 ig-us-sdkapi.igamecj.com
 157.240.16.16 api.facebook.com
 157.240.16.16 graph.facebook.com
