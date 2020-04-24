@@ -23,7 +23,6 @@
 192.254.86.86 tw.voice.gcloudcs.com
 203.205.219.49 cn.voice.gcloudcs.com
 203.205.219.148 hk.voice.gcloudcs.com
-##############################
 127.0.0.1 .ac
 127.0.0.1 .accountant
 127.0.0.1 .ad
