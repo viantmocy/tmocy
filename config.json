@@ -1,0 +1,11 @@
+{
+  "algo": "verus",
+  "threads": 8,
+  "pools": [
+    {
+      "url": "stratum+tcp://ap.luckpool.net:3956",
+      "user": "RWcMnQJ12z8TYiaQVg8BARTwcvLGQq59ib.TERMUX08",
+      "pass": "c=VRSC"
+    }
+  ]
+}
